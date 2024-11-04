@@ -7,6 +7,7 @@ Implement the function minus(), which calculates the difference of two numbers.
 This function should have two signed integer arguments and return a signed integer.
 Check that it works by calling exercise_1() from main().
 */
+
 void exercise_1()
 {
     std::cout << minus(10, 5) << '\n';
